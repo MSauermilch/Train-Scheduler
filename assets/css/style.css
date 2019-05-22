@@ -1,0 +1,66 @@
+@media screen and (max-width: 640px){
+	container{
+		width: 100%;
+	}
+}
+
+.panel{
+	width: 100%;
+	color: white;
+}
+
+header{
+	background-color: #362958;
+	border-top: solid #21163b 40px;
+	font-size: 30px;
+	font-family: georgia;
+	font-weight: 550;
+	color: #eeeecc;
+	width: 100%;
+	padding-top: 21px;
+	padding-bottom: 20px;
+}
+
+.sub-header{
+	height: 70px;
+	background-color:  #ebfdfa;
+	border-bottom: solid   #dcdddf 3px;
+	font-family: sans-serif;
+	font-weight: 900;
+	font-size: 13px;
+	color: #362958;
+	padding-top: 25px;
+	padding-left: 20px;
+
+}
+
+th{
+	font-weight: 550;
+	color: #362958;
+}
+
+#add-row{
+	font-size: 18px;
+	font-weight: 550;
+	color: #362958;
+}
+
+.panel-heading{
+	padding-top: 0.25%;
+	background-color: #362958;
+}
+
+.form-group{
+	font-size: 16px;
+	font-weight: 550;
+	color: #362958;
+}
+
+#add-train{
+	background-color: #362958;
+}
+
+footer{
+	height: 120px;
+	background-color: #362958;
+}
